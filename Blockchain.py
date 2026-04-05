@@ -1,10 +1,6 @@
 from hashlib import sha256
-import json
 import time
 import pickle
-from datetime import datetime
-import random
-import base64
 from block import *
 
 class Blockchain:
